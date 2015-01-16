@@ -7,9 +7,9 @@ There are 4 snippets of code in this repository:
   - net: creates a very simple server that can be accessed via telnet
   - unit-tests: shows how to export a function and how to unit-test it
 
-Run <code>npm install</code> in the root folder of the project in order to install dependencies.
+Run <code>npm install</code> from the root folder of the project in order to install dependencies.
 
-Run <code>grunt</code> fron the root folder to jshint the code.
+Run <code>grunt</code> from the root folder to jshint the code.
 
 Run <code>npm test</code> from the root folder to run the tests.
 
