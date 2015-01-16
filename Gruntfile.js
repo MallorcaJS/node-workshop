@@ -7,9 +7,9 @@ module.exports = function(grunt) {
                 "Gruntfile.js",
                 "*.js",
                 "http/*.js",
-                "interpreter/batch/*.js",
-                "net/integration/*.js",
-                "unit-tests/io/*.js"
+                "interpreter/*.js",
+                "net/*.js",
+                "unit-tests/*.js"
             ],
             options: {
                 // use closest-through-parent jshint configuration file

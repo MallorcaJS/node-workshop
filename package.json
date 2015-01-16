@@ -1,0 +1,25 @@
+{
+  "name": "node-workshop",
+  "description": "A set of code snippets developed for a MallorcaJS workshop",
+  "version": "0.0.1",
+  "author": {
+    "name": "Diego Lafuente",
+    "email": "dlafuente@tuitravel-ad.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiegoTUI/node-workshop.git"
+  },
+  "dependencies": {
+    "express": "4.11.x",
+    "testing":"0.1.x",
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.10.x"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
